@@ -10,4 +10,6 @@
 
 - My While Loop Activity [whileLoopActivity](https://github.com/GMANN05/whileLoopActivity.git)
 
+- My Project 1 [Project1](https://github.com/GMANN05/Project-1.git)
+
 - 
