@@ -12,4 +12,4 @@
 
 - My Project 1 [Project1](https://github.com/GMANN05/Project-1.git)
 
-- 
+- My Methods Activity [methodsActivity3](https://github.com/GMANN05/methodsActivity3.git)
