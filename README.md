@@ -8,4 +8,6 @@
   
 - My for loop activity [forLoopActivity](https://github.com/GMANN05/forLoopActivity.git)
 
+- My While Loop Activity [whileLoopActivity](https://github.com/GMANN05/whileLoopActivity.git)
+
 - 
